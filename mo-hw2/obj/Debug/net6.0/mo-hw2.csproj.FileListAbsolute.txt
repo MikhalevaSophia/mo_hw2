@@ -1,0 +1,14 @@
+C:\Users\mi\source\repos\mo-hw2\bin\Debug\net6.0\mo-hw2.exe
+C:\Users\mi\source\repos\mo-hw2\bin\Debug\net6.0\mo-hw2.deps.json
+C:\Users\mi\source\repos\mo-hw2\bin\Debug\net6.0\mo-hw2.runtimeconfig.json
+C:\Users\mi\source\repos\mo-hw2\bin\Debug\net6.0\mo-hw2.dll
+C:\Users\mi\source\repos\mo-hw2\bin\Debug\net6.0\mo-hw2.pdb
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.AssemblyInfoInputs.cache
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.AssemblyInfo.cs
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.csproj.CoreCompileInputs.cache
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.dll
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\refint\mo-hw2.dll
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.pdb
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\mo-hw2.genruntimeconfig.cache
+C:\Users\mi\source\repos\mo-hw2\obj\Debug\net6.0\ref\mo-hw2.dll
